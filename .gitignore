@@ -1,0 +1,12 @@
+# Xcode user data
+*.xcuserstate
+xcuserdata/
+
+# Build artifacts
+DerivedData/
+build/
+*.o
+*.d
+
+# Claude Code
+.claude/
