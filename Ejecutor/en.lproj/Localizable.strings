@@ -1,0 +1,43 @@
+// Menu
+"No external drives" = "No external drives";
+"Settings…" = "Settings…";
+"Quit" = "Quit";
+"Clean and Eject" = "Clean and Eject";
+"Clean Only" = "Clean Only";
+"Find Junk…" = "Find Junk…";
+"Eject Only" = "Eject Only";
+
+// Notifications
+"✓ %@ ejected" = "✓ %@ ejected";
+"✓ %@ cleaned" = "✓ %@ cleaned";
+"Deleted %d files, freed %@%@" = "Deleted %d files, freed %@%@";
+", errors: %d" = ", errors: %d";
+"Eject Error" = "Eject Error";
+"Failed to eject %@: %@" = "Failed to eject %@: %@";
+"Error" = "Error";
+
+// Windows
+"Scanning: %@" = "Scanning: %@";
+"Ejecutor Settings" = "Ejecutor Settings";
+
+// Settings view
+"Launch at Login" = "Launch at Login";
+"Files to Remove" = "Files to Remove";
+"Only if paired file exists" = "Only if paired file exists";
+
+// Scan result view
+"No junk files found" = "No junk files found";
+"%d files · %@" = "%d files · %@";
+"Close" = "Close";
+"Clean" = "Clean";
+
+// Permissions
+"Full Disk Access Required" = "Full Disk Access Required";
+"Full Disk Access Required body" = "To remove .Spotlight-V100 and other system files, Ejecutor needs Full Disk Access.\n\nOpen System Settings → Privacy & Security → Full Disk Access and add Ejecutor.";
+"Open Settings" = "Open Settings";
+"Later" = "Later";
+"Notifications Disabled" = "Notifications Disabled";
+"Notifications Disabled body" = "Ejecutor won't be able to report cleanup results. Enable notifications in System Settings.";
+
+// Errors
+"no permissions" = "no permissions";

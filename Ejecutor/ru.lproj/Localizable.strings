@@ -1,0 +1,43 @@
+// Menu
+"No external drives" = "Нет внешних накопителей";
+"Settings…" = "Настройки…";
+"Quit" = "Выйти";
+"Clean and Eject" = "Очистить и извлечь";
+"Clean Only" = "Только очистить";
+"Find Junk…" = "Найти мусор…";
+"Eject Only" = "Только извлечь";
+
+// Notifications
+"✓ %@ ejected" = "✓ %@ извлечён";
+"✓ %@ cleaned" = "✓ %@ очищен";
+"Deleted %d files, freed %@%@" = "Удалено %d файлов, освобождено %@%@";
+", errors: %d" = ", ошибок: %d";
+"Eject Error" = "Ошибка извлечения";
+"Failed to eject %@: %@" = "Не удалось извлечь %@: %@";
+"Error" = "Ошибка";
+
+// Windows
+"Scanning: %@" = "Сканирование: %@";
+"Ejecutor Settings" = "Настройки Ejecutor";
+
+// Settings view
+"Launch at Login" = "Загружать при старте системы";
+"Files to Remove" = "Удаляемые файлы";
+"Only if paired file exists" = "Только если есть парный файл";
+
+// Scan result view
+"No junk files found" = "Мусорных файлов не найдено";
+"%d files · %@" = "%d файлов · %@";
+"Close" = "Закрыть";
+"Clean" = "Очистить";
+
+// Permissions
+"Full Disk Access Required" = "Требуется полный доступ к диску";
+"Full Disk Access Required body" = "Для удаления .Spotlight-V100 и других системных файлов Ejecutor нужен полный доступ к диску.\n\nОткройте Системные настройки → Конфиденциальность и безопасность → Полный доступ к диску и добавьте Ejecutor.";
+"Open Settings" = "Открыть настройки";
+"Later" = "Позже";
+"Notifications Disabled" = "Уведомления отключены";
+"Notifications Disabled body" = "Ejecutor не сможет сообщать о результатах очистки. Включите уведомления в системных настройках.";
+
+// Errors
+"no permissions" = "нет прав доступа";
