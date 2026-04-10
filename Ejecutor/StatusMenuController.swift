@@ -242,6 +242,7 @@ final class StatusMenuController: NSObject {
         }
         NSApp.activate(ignoringOtherApps: true)
         settingsWindow?.makeKeyAndOrderFront(nil)
+        settingsWindow?.orderFrontRegardless()
     }
 
     // MARK: - Notifications
